@@ -2,3 +2,4 @@ testing/
 test*.ipynb
 *.mp4
 *.jp*g
+*.pyc
